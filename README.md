@@ -1,8 +1,8 @@
 # Blockchain-on-Java
 
 ### Version: 1.1.0  
-**Author**: Daniil Krizhanovskiyi  
-**Date**: September 2024  
+**Author**: Mayank Srivastav 
+**Date**: August 2025 
 
 ## Project Overview
 
